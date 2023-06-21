@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "title": "Create an earring set using resin mould",
+        "level": "Urgent"
+    },
+
+    {
+        "id": 2,
+        "title": "Post the new set of earrings on social media",
+        "level": "Important"
+    },
+
+    {
+        "id": 3,
+        "title": "Build a client database for Butterfly Crafts",
+        "level": "General"
+    }
+]
